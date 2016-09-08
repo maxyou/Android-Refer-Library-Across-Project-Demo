@@ -1,4 +1,4 @@
-# Refer Library Across Projects
+# Refer Library Module Across Android Projects
 
     \MyProj1
         \app
